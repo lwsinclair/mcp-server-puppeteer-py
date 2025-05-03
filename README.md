@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/twolven-mcp-server-puppeteer-py-badge.png)](https://mseep.ai/app/twolven-mcp-server-puppeteer-py)
+
 # Puppeteer MCP Server (Python Implementation)
 
 A Model Context Protocol server that provides browser automation capabilities using Playwright (Python's equivalent to Puppeteer). This server enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a real browser environment.
